@@ -84,6 +84,7 @@ MVP って何？　なったら何が嬉しいの？　など聞かれたりす�
 
 <a href="https://mvp.microsoft.com/ja-jp/MvpSearch?lo=Japan&sc=e" target="_blank">公式サイトに一覧になってまとまっています</a>
 
+---
  
 # 日本の MVP の人インタビュー
  
@@ -128,3 +129,10 @@ Client App Dev(2011/07 - 2014/06), Windows Development(2014/07 - 2017/07)
 
 MVP ということで登壇機会や書籍の執筆機会が増えました。
 また、Microsoft MVP の特典として Visual Studio Subscription の最上位エディションが使えるので Visual Studio のコミュニティー版では利用できない機能を使ったり Microsoft Azure も開発用途で毎月 15000 円程度使えるので Azure の各種機能を試したりといったこともできるので、MVP になる前よりも気軽に Microsoft 系の技術の情報発信が行えるようになりました。
+
+---
+
+このページは GitHub Pages で作っているので、 <a href="https://github.com/chomado/MS-MVP/blob/master/index.md" target="_blank">index.md</a> が変更されたらそのままサイトに反映されます。
+
+現役 MVP の方からの Pull Request お待ちしております！！（私自身が MVP 経験したこと無いから実際に MVP の人からのお声が大切）   
+もしくは MVP ではないかたからの「この情報も欲しい」「これが分かりにくい」などの issue もお待ちしております。
