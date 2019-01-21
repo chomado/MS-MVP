@@ -60,7 +60,7 @@ etc..
 <a href="https://mvp.microsoft.com/ja-jp/pages/what-it-takes-to-be-an-mvp" target="_blank">公式サイト</a> では、次の 5項目が取り上げられています。
 
 1. `OSS プロジェクトへのコントリビュート`
-    - 製品への Pull Request や、OSS プロジェクのオーナーなど
+    - 製品への Pull Request や、OSS プロジェクトのオーナーなど
     - スイスの MS MVP である Daniel Marbach さんは、Machine.Specifications, Appccelerate、そしてNinject といった複数の OSS プロジェクトを有しており、これらのプロジェクトは 10万以上ダウンロードされています。また、GitHub では 1,500 以上のコントリビュートを成し遂げています。
 1. `登壇活動`
     - 技術コミュニティでセッションをしたり、技術コミュニティや勉強会を運営したり
