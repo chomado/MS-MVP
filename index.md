@@ -1,23 +1,47 @@
 # Microsoft MVP について
 
-Microsoft MVP (Most Valuable Professional) 制度とは、Microsoft 社が、社外の人を「MVP」として表彰する制度です。    
+**Microsoft MVP** (Most Valuable Professional) 制度とは、Microsoft 社が、社外の人を「MVP」として表彰する制度です。
+
+「Thank you Award」とも呼ばれ、マイクロソフト製品などに対する深い専門知識を待ち、かつ、それを広く(登壇や記事執筆などで)広めてくれている人たちを表彰する制度です。
+
 公式サイト： <a href="https://mvp.microsoft.com/ja-jp" target="_blank">mvp.microsoft.com</a>
 
 ## 何故このページを作ったか
 
-よく MVP の人が Microsoft の社員だと誤解されているところを目撃したり、   
+よく Microsoft MVP の人が Microsoft の社員だと誤解されているところを目撃したり、   
 MVP って何？　なったら何が嬉しいの？　など聞かれたりするので、作りました。
 
-公式サイトもあるのですが、ところどころ英語のままだったり、欲しい情報が欠けたりしているので、個人的に勝手に作りました
+<a href="https://mvp.microsoft.com/ja-jp/pages/what-it-takes-to-be-an-mvp" target="_blank">公式サイト</a>もあるのですが、ところどころ英語のままだったり、欲しい情報が欠けたりしているので、個人的に勝手に作りました
+
+## 目次
+
+Microsoft MVP とは
+
+1. <a href="#benefit">Microsoft MVP に認定されるメリットって何？</a>
+1. <a href="#what-it-takes-to-be-an-mvp">どんな人が MVP に選ばれるの？</a>
+1. <a href="#nomination">審査ってどんな感じなの？</a>
+1. <a href="#category">アワードカテゴリー (受賞カテゴリ) って？</a>
+1. <a href="#mvps-in-japan">日本の Microsoft MVP の人たちを見る</a>
+
+日本の MVP の人たちにインタビュー
+
+1. <a href="#01">Windows Development：大田一希</a>
+
+<a id="benefit"></a>
 
 ## Microsoft MVP に認定されるメリットって何？
 
-* Microsoft Visual Studio 最上位のサブスクリプション(Azure の月数万円のサブスクリプションなども含む)と O365 E3サブスクリプション付与。(また、これに加え、Azure カテゴリでの受賞だとさらに Azure の課金額の増額版や、Office カテゴリだと O365 E5 など、カテゴリによって若干ベネフィットに違いがあります)
+* Microsoft Visual Studio 最上位のサブスクリプション(Azure の月数万円のサブスクリプションなども含む)と O365 E3サブスクリプション付与。
+    - また、**これに加え、** Azure カテゴリでの受賞だとさらに Azure の課金額の増額版や、Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
 * 年に一度 <a href="https://mvp.microsoft.com/ja-jp/Summit" target="_blank">MVP グローバルサミット</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに参加できる。ホテル代も出る
 * 「Microsoft MVP」というロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く ＜TODO：カッコいいトロフィーの写真を MVP の人からもらう＞
 
-## どんな人が選ばれるの？
+また、 MVP に製品を無料で使わせてくれる特典配布をしている会社さんもあったりします。LINQPad だったり、Infragistics さんだったり、他多数。
+
+<a id="what-it-takes-to-be-an-mvp"></a>
+
+## どんな人が MVP に選ばれるの？
 
 `何かの分野で技術エキスパート` && `その知識を皆に共有している`    
 の両方を満たしている人が選ばれます。    
@@ -47,6 +71,9 @@ MVP って何？　なったら何が嬉しいの？　など聞かれたりす�
     - アメリカの MVP である Oren Novotny さんは、.NET や UWP、 Visual Studio、Azure、NuGet といった多くのマイクロソフト製品やテクノロジーに長年に渡って価値あるフィードバックを提供している Windows Development MVP です。彼のフィードバックは多くのマイクロソフト製品に取り入れられており、製品チームも彼のフィードバックに非常に価値を見出しています。
     - 製品チームからのコメント：「Oren は素晴らしく、彼のブログでは私たちが提供する製品仕様やドキュメントよりも、より詳細な情報が提供されており、それが彼に正しい質問をしたり、とある「なぜ」に対して、なぜそのように動作するのか、または（より一般的に）そうあるべきなのに何故そうしないのか、私たちに説明を強いる結果となっています。彼が提供するフィードバックは非常に質が高く、私たちにとって、とても重要です。」- Immo Landwerth, Senior PM
 
+
+<a id="nomination"></a>
+
 ## 審査ってどんな感じなの？
 
 * この 1年間の活動内容が審査対象になる
@@ -56,6 +83,8 @@ MVP って何？　なったら何が嬉しいの？　など聞かれたりす�
 * もともとは自薦/他薦でのノミネーション(審査申込み)だったのですが、2019年1月現在 <a href="https://mvp.microsoft.com/ja-jp/Nomination/nominate-an-mvp" target="_blank">審査申し込みページ</a>を見たら、マイクロソフト社員もしくは MVP の人からの推薦が無いと審査プロセスに進めないようです。なので「我こそは」と思う方は、
     - MVP プログラムの本社チーム MVP Global Administrator 宛てに英語でメールを送る： `mvpga（あっと）microsoft.com`
     - 勉強会に参加して、そこにいる MVP の人や Microsoft 社員の人に「MVP興味あるのですが」と話してみる
+
+<a id="category"></a>
 
 ## アワードカテゴリー (受賞カテゴリ) って？
 
@@ -79,13 +108,16 @@ MVP って何？　なったら何が嬉しいの？　など聞かれたりす�
 10|Office Apps & Services | Office 365, Exchange, Microsoft Teams, Excel, OneNote, Outlook, PowerPoint など
 11|Business Applications | Dynamics NAV, Dynamics GP, Dynamics 365, PowerApps and Flow
  
- 
-## 日本の　Microsoft MVP の人たちを見る
+<a id="mvps-in-japan"></a>
+
+## 日本の Microsoft MVP の人たちを見る
 
 <a href="https://mvp.microsoft.com/ja-jp/MvpSearch?lo=Japan&sc=e" target="_blank">公式サイトに一覧になってまとまっています</a>
 
 ---
  
+<a id="01"></a>
+
 # 日本の MVP の人インタビュー
  
 1人目は、2011 年から 6年連続 MVP に認定されていた、大田一希さん。    
@@ -93,9 +125,11 @@ MVP って何？　なったら何が嬉しいの？　など聞かれたりす�
 
 ## 01: 大田一希さん (Kazuki Ota)
 
+Twitter: <a href="https://twitter.com/okazuki/" target="_blank">@okazuki</a> / GitHub: <a href="https://github.com/runceel/" target="_blank">@runceel</a>
+
 ### 受賞期間と受賞カテゴリ
 
-Client App Dev(2011/07 - 2014/06), Windows Development(2014/07 - 2017/07)
+Client App Dev (2011/07 - 2014/06), Windows Development (2014/07 - 2017/07)
 
 ### 活動内容
 
@@ -131,6 +165,8 @@ MVP ということで登壇機会や書籍の執筆機会が増えました。
 また、Microsoft MVP の特典として Visual Studio Subscription の最上位エディションが使えるので Visual Studio のコミュニティー版では利用できない機能を使ったり Microsoft Azure も開発用途で毎月 15000 円程度使えるので Azure の各種機能を試したりといったこともできるので、MVP になる前よりも気軽に Microsoft 系の技術の情報発信が行えるようになりました。
 
 ---
+
+## プルリクお待ちしています
 
 このページは GitHub Pages で作っているので、 <a href="https://github.com/chomado/MS-MVP/blob/master/index.md" target="_blank">index.md</a> が変更されたらそのままサイトに反映されます。
 
