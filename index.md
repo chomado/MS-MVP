@@ -125,7 +125,7 @@ etc..
 
 # 日本の MVP の人インタビュー
  
-1人目は、2011 年から 6年連続 MVP に認定されていた、大田一希さん。    
+1 人目は、2011 年から 6 年連続 MVP に認定されていた、大田一希さん。    
 彼は 2017 年に Microsoft に入社したので MVP ではなくなった(社員は MVP になれない)のですが、MVP について詳しいので色々聞いてきました。
 
 ## 01: 大田一希さん (Kazuki Ota)
@@ -175,7 +175,7 @@ MVP ということで登壇機会や書籍の執筆機会が増えました。
 
 ## 02: 鈴木 孝明（Takaaki Suzuki）
 
-二人目は、Visual Studio でのライブコーディングなどが神がかっている、鈴木さんです。
+2 人目は、Visual Studio でのライブコーディングなどが神がかっている、鈴木さんです。
 
 
 Twitter: <a href="https://twitter.com/xin9le/" target="_blank">@xin9le</a> / GitHub: <a href="https://github.com/xin9le" target="_blank">@xin9le</a> / Blog: <a href="https://xin9le.net/" target="_blank">xin9le.net</a>
@@ -188,7 +188,7 @@ Twitter: <a href="https://twitter.com/xin9le/" target="_blank">@xin9le</a> / Git
 - Visual C# (2012/07 - 2015/06)
 - .NET (2015/07 - 2016/06)
 - Visual Studio and Development Technologies (2016/07 - 2018/06)
-- Developer Technologies (2018/07 - )
+- Developer Technologies (2018/07 - 現在)
 
 
 ### 活動内容
@@ -209,9 +209,9 @@ Twitter: <a href="https://twitter.com/xin9le/" target="_blank">@xin9le</a> / Git
 - [Reactive プログラミング](http://blog.xin9le.net/entry/rx-intro)
 - [非同期プログラミング](https://blog.xin9le.net/entry/async-method-intro)
 
-その結果として MVP Award への申請を 1 発でパスし、これまで 7 期連続で受賞を継続することができています。
+その結果として MVP Award への申請を 1 発でパスし、これまで 7 期連続で受賞することができています。
 
-私がこれらの活動を積極的開始したのが 2011 年 4 月だったのですが、2011 年 3 月に発生した東日本大震災のときにエンジニアとして何も貢献できなかった無力さを感じたことが最も大きいです。当時は Windows デスクトップアプリの開発業務がメインで Web / クラウドのプログラミングが一切できませんでした。その悔しさから自分のエンジニアとしての力を伸ばしたいという気持ちが一気に強くなり、世の中の優れたエンジニアの方々とたくさん会って話をするようになりました。そういった経緯で勉強会への登壇を含む積極的なアウトプットをするようになり、結果として MVP Award の受賞に繋がったのだと思います。
+私がこれらの活動を積極的開始したのが 2011 年 4 月だったのですが、2011 年 3 月に発生した東日本大震災のときにエンジニアとして何も貢献できなかった無力さを感じたことが最も大きいです。当時は Windows デスクトップアプリの開発業務がメインで Web / クラウドのプログラミングが一切できませんでした。その悔しさから自分のエンジニアとしての力を伸ばしたいという気持ちが一気に強くなり、世の中の優れたエンジニアの方々とたくさん会って話をするようになりました。そういった経緯で勉強会への登壇を含む積極的なアウトプットをするようになり、それが結果として MVP Award の受賞に繋がったのだと思います。
 
 
 
