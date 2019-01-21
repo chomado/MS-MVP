@@ -205,9 +205,9 @@ Twitter: <a href="https://twitter.com/xin9le/" target="_blank">@xin9le</a> / Git
 
 それから数年独学で C# を学ぶ中で勉強会にも参加するようになり、当時特に強く興味/関心のあった以下のプログラミング手法について学んだ内容を Blog で連載記事として投稿したり、勉強会を主催して登壇したりしました。
 
-- 並列プログラミング
-- Reactive プログラミング
-- 非同期プログラミング
+- [並列プログラミング](http://blog.xin9le.net/entry/tpl-intro)
+- [Reactive プログラミング](http://blog.xin9le.net/entry/rx-intro)
+- [非同期プログラミング](https://blog.xin9le.net/entry/async-method-intro)
 
 その結果として MVP Award への申請を 1 発でパスし、これまで 7 期連続で受賞を継続することができています。
 
