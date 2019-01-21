@@ -25,7 +25,9 @@ Microsoft MVP とは
 
 日本の MVP の人たちにインタビュー
 
-1. <a href="#01">Windows Development：大田一希</a>
+1. <a href="#01">Windows Development：大田 一希</a>
+1. <a href="#02">Developer Technologies：鈴木 孝明</a>
+
 
 <a id="benefit"></a>
 
@@ -125,7 +127,7 @@ Microsoft MVP とは
 
 ## 01: 大田一希さん (Kazuki Ota)
 
-Twitter: <a href="https://twitter.com/okazuki/" target="_blank">@okazuki</a> / GitHub: <a href="https://github.com/runceel/" target="_blank">@runceel</a>
+Twitter: <a href="https://twitter.com/okazuki/" target="_blank">@okazuki</a> / GitHub: <a href="https://github.com/runceel/" target="_blank">@runceel</a> / Blog: <a href="https://blog.okazuki.jp/" target="_blank">かずきのBlog</a>
 
 ### 受賞期間と受賞カテゴリ
 
@@ -166,7 +168,56 @@ MVP ということで登壇機会や書籍の執筆機会が増えました。
 
 ---
 
-## プルリクお待ちしています
+<a id="02"></a>
+
+## 02: 鈴木 孝明（Takaaki Suzuki）
+
+二人目は、Visual Studio でのライブコーディングなどが神がかっている、鈴木さんです。
+
+
+Twitter: <a href="https://twitter.com/xin9le/" target="_blank">@xin9le</a> / GitHub: <a href="https://github.com/xin9le" target="_blank">@xin9le</a> / Blog: <a href="https://xin9le.net/" target="_blank">xin9le.net</a>
+
+### 受賞期間
+2012/07 - 現在
+
+
+### カテゴリー
+- Visual C# (2012/07 - 2015/06)
+- .NET (2015/07 - 2016/06)
+- Visual Studio and Development Technologies (2016/07 - 2018/06)
+- Developer Technologies (2018/07 - )
+
+
+### 活動内容
+- Blog 執筆
+- サンプルコード作成
+- ライブラリ / ツール作成
+- 勉強会 / イベント登壇
+- OSS へのコントリビュート
+
+
+
+### 私が MVP になったときのいきさつ
+大学卒業後、新卒で入社した企業のプログラミング研修担当が C# MVP の小島さん (@Fujiwo) でした。当時の研修で教わったのは C# ではなく C++ でしたが、半年程度あった研修の最終日に「C++ だとこう書いてきたけど C# ならこんなエレガントに書ける」という言葉を聞き、C# にとても興味を持ちました。小島さんが Microsoft から C# のカテゴリーで表彰を受けている凄腕のエンジニアであることも研修期間中から知っていたので、長い研修を受ける中で感謝と尊敬の気持ちが強くなっていたこともあり MVP Award に強い憧れを持っていました。
+
+それから数年独学で C# を学ぶ中で勉強会にも参加するようになり、当時特に強く興味/関心のあった以下のプログラミング手法について学んだ内容を Blog で連載記事として投稿したり、勉強会を主催して登壇したりしました。
+
+- 並列プログラミング
+- Reactive プログラミング
+- 非同期プログラミング
+
+その結果として MVP Award への申請を 1 発でパスし、これまで 7 期連続で受賞を継続することができています。
+
+私がこれらの活動を積極的開始したのが 2011 年 4 月だったのですが、2011 年 3 月に発生した東日本大地震のときにエンジニアとして何も貢献できなかった無力さを感じたことが最も大きいです。当時は Windows デスクトップアプリの開発業務がメインで Web / クラウドのプログラミングが一切できませんでした。その悔しさから自分のエンジニアとしての力を伸ばしたいという気持ちが一気に強くなり、世の中の優れたエンジニアの方々とたくさん会って話をするようになりました。そういった経緯で勉強会への登壇を含む積極的なアウトプットをするようになり、結果として MVP Award の受賞に繋がったのだと思います。
+
+
+
+### MVP になったら何が変わったか
+勉強会/イベントなどに招待されたり、登壇の依頼が多く来るようになりました。もちろん登壇となると準備は大変ですが、それ以上にその準備が自分の勉強にもなるので大変ありがたいことです。また受賞特典のひとつである MSDN Subscription のおかげで Microsoft 製品のほとんどを無料で使うことができるため、自習をよりやりやすくなりました。転職活動時にも MVP Award ホルダーであることで声を掛けていただける機会が増えるなど、あらゆる面で正のループが回っているように感じます。
+
+---
+
+# プルリクお待ちしています
 
 このページは GitHub Pages で作っているので、 <a href="https://github.com/chomado/MS-MVP/blob/master/index.md" target="_blank">index.md</a> が変更されたらそのままサイトに反映されます。
 
