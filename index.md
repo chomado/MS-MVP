@@ -38,9 +38,9 @@ Microsoft MVP とは
 * 年に一度 <a href="https://mvp.microsoft.com/ja-jp/Summit" target="_blank">MVP グローバルサミット</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに参加できる。ホテル代も出る
 * ‪ NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
-* カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く ＜TODO：カッコいいトロフィーの写真を MVP の人からもらう＞
+* カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
 
-etc..
+![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
 
 また、 MVP に製品を無料で使わせてくれる特典配布をしている会社さんもあったりします。LINQPad だったり、Infragistics さんだったり、他多数。
 
