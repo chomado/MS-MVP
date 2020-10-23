@@ -105,13 +105,13 @@ Microsoft MVP とは
 2|Windows Development | Windows アプリ開発, Windows Mixed Reality など
 3|Office Development | W/X/P Development, Microsoft Graph, Microsoft Teams Development など
 4|Developer Technologies | Java, Unity, PHP, Python, Xamarin, JavaScript/TypeScript, C++, .NET, Visual Studio Extensibility など
-5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, SQL Server, Azure SQL Database & SQL Server on Linux など
+5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, SQL Server, Azure SQL Database & SQL Server on Linux, Power BI など
 6|AI | Cognitive Services, Azure Bot Service, Cognitive Toolkit, Azure Machine Learning
 7|Cloud & Datacenter Management | Linux in System Center/Operations Management Suite, Linux on Hyper-V, PowerShell, Chef/Puppet in Datacenter, Windows Server for Small & Medium Business など
 8|Enterprise Mobility | System Center Configuration Manager & Microsoft Intune, Identity and Access, Information Protection, Remote Desktop Services
 9|Windows & Devices for IT | Windows for IT, Surface for IT
 10|Office Apps & Services | Office 365, Exchange, Microsoft Teams, Excel, OneNote, Outlook, PowerPoint など
-11|Business Applications | Dynamics NAV, Dynamics GP, Dynamics 365, PowerApps and Flow
+11|Business Applications | Dynamics NAV, Dynamics GP, Dynamics 365, Power Apps, Power Automate, Power Virtual Agents
  
 <a id="mvps-in-japan"></a>
 
