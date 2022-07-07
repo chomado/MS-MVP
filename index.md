@@ -35,14 +35,15 @@ Microsoft MVP とは
 
 * Microsoft Visual Studio 最上位のサブスクリプション(Microsoft Azure を月数万円分利用可能なサブスクリプションなども含む)と O365 E3 サブスクリプション付与。
     - また、**これに加え、** Azure カテゴリでの受賞だとさらに Microsoft Azure の利用額の増額や、Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
-* 年に一度 <a href="https://mvp.microsoft.com/ja-jp/Summit" target="_blank">MVP グローバルサミット</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに参加できる。ホテル代も出る
+* （コロナ前の話）年に一度 <a href="https://mvp.microsoft.com/ja-jp/Summit" target="_blank">MVP グローバルサミット</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに参加できる。ホテル代も出る。（追記：コロナ禍になってからオンライン開催になりました。(2022年7月現在)）
 * ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
 
 ![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
+(↑ MVP 鈴木 孝明さんより画像提供)
 
-また、 MVP に製品を無料で使わせてくれる特典を配布をしている会社さんもあったりします。LINQPad だったり、Infragistics さんだったり、他多数。
+また、[Infragistics さん](https://jp.infragistics.com/mvp-license) など、MVP に製品を無料で使わせてくれる特典を配布をしている会社さんもあったりします。
 
 <a id="what-it-takes-to-be-an-mvp"></a>
 
