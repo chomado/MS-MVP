@@ -102,17 +102,20 @@ Microsoft MVP とは
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
-1|Microsoft Azure | Azure Container Services (Docker, Windows Server), ARM & DevOps on Azure (Chef, Puppet, Salt, Ansible, Dev/Test Lab) , SDK support on Azure (.NET, Node.js, Java, PHP, Python, GO, Ruby) などなど
-2|Windows Development | Windows アプリ開発, Windows Mixed Reality など
-3|M365 Development | W/X/P Development, Microsoft Graph, Microsoft Teams Development など
-4|Developer Technologies | Java, Unity, PHP, Python, Xamarin, JavaScript/TypeScript, C++, .NET, Visual Studio Extensibility など
-5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, SQL Server, Azure SQL Database & SQL Server on Linux, Power BI など
-6|AI | Cognitive Services, Azure Bot Service, Cognitive Toolkit, Azure Machine Learning
-7|Cloud & Datacenter Management | Linux in System Center/Operations Management Suite, Linux on Hyper-V, PowerShell, Chef/Puppet in Datacenter, Windows Server for Small & Medium Business など
-8|Enterprise Mobility | System Center Configuration Manager & Microsoft Intune, Identity and Access, Information Protection, Remote Desktop Services
-9|Windows & Devices for IT | Windows for IT, Surface for IT
-10|M365 Apps & Services | Office 365, Exchange, Microsoft Teams, Excel, OneNote, Outlook, PowerPoint など
-11|Business Applications | Dynamics NAV, Dynamics GP, Dynamics 365, Power Apps, Power Automate, Power Virtual Agents
+1|Microsoft Azure | Azure Core Compute (VMSS, Confidential Computing, Platform Deployment), Azure App Service, Azure Service Fabric, Azure Functions, Azure Kubernetes/Container Instances/Docker, Azure Logic Apps, Azure API Management などなど
+2|Windows Development | Windows Development, Windows Design
+3|M365 Development | W/X/P Development, Microsoft Graph, SharePoint Development, Microsoft Teams Development Outlook Development
+4|Developer Technologies | ASP.NET/IIS, .NET, C++, GitHub & Azure DevOps, Developer Security, Visual Studio Extensibility, Front End Web Dev, Node.js, Python, Java, Unity, Xamarin, JavaScript/Typescript など
+5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, Azure Search, Data Warehousing (Azure SQL Data Warehouse, Fast Track & APS), Azure Stream Analytics, Cortana Intelligence Suite, Information Management (ADF, SSIS, &Data Sync), PowerBI など
+6|AI | Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search, Azure Machine Learning
+7|Internet of Things | Azure Edge Devices, Azure IoT Services & Development
+8|Cloud & Datacenter Management | Datacenter Management, PowerShell, Hyper-V, Storage, Networking, High Availability, Group Policy, Windows Server for Small & Medium Business, Linux on Hyper-V, Chef/Puppet in Datacenter など
+9|Enterprise Mobility | Endpoint Manager, Information Protection, Remote Desktop Services
+10|Windows & Devices for IT | Windows for IT, Surface for IT, Windows 365
+11|M365 Apps & Services | Office 365, Exchange, SharePoint, Skype for Business, Yammer, Microsoft Teams, Access, Excel, OneNote, Outlook, PowerPoint, Visio, Word, OneDrive, Project, Microsoft Stream, Microsoft Viva
+12|Business Applications | Dynamics 365, Power Apps, Power Automate, Power Virtual Agents, Power Pages
+13|Security | Cloud Security, Identity & Access, SIEM & XDR
+14|Mixed Reality | D365 Mixed Reality, MR Design, MR Development
  
 <a id="mvps-in-japan"></a>
 
