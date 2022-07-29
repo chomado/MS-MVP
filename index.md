@@ -104,7 +104,7 @@ Microsoft MVP とは
 ---|---|---
 1|Microsoft Azure | Azure Core Compute (VMSS, Confidential Computing, Platform Deployment), Azure App Service, Azure Service Fabric, Azure Functions, Azure Kubernetes/Container Instances/Docker, Azure Logic Apps, Azure API Management などなど
 2|Windows Development | Windows Development, Windows Design
-3|M365 Development | W/X/P Development, Microsoft Graph, SharePoint Development, Microsoft Teams Development Outlook Development
+3|M365 Development | W/X/P Development, Microsoft Graph, SharePoint Development, Microsoft Teams Development, Outlook Development
 4|Developer Technologies | ASP.NET/IIS, .NET, C++, GitHub & Azure DevOps, Developer Security, Visual Studio Extensibility, Front End Web Dev, Node.js, Python, Java, Unity, Xamarin, JavaScript/Typescript など
 5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, Azure Search, Data Warehousing (Azure SQL Data Warehouse, Fast Track & APS), Azure Stream Analytics, Cortana Intelligence Suite, Information Management (ADF, SSIS, &Data Sync), PowerBI など
 6|AI | Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search, Azure Machine Learning
