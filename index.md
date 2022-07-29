@@ -39,6 +39,7 @@ Microsoft MVP とは
 * ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
+* 「Community Program Managers(CPM) 」という MVP 受賞者と Microsoft の窓口となる Microsoft 社員のが割り当てられる。アメリカの Microsoft 本社から重要な英語メールは、CPMさんが訳したメールを再度送信してくれるなどサポートが受けられる
 
 ![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
 (↑ MVP 鈴木 孝明さんより画像提供)
