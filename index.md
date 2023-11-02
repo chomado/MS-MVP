@@ -11,7 +11,7 @@
 よく Microsoft MVP の人が Microsoft の社員だと誤解されているところを目撃したり、   
 MVP って何？　なったら何が嬉しいの？　など聞かれたりするので、作りました。
 
-<a href="https://mvp.microsoft.com/ja-jp/pages/what-it-takes-to-be-an-mvp" target="_blank">公式サイト</a>もあるのですが、ところどころ英語のままだったり、欲しい情報が欠けたりしているので、個人的に勝手に作りました
+<a href="https://mvp.microsoft.com/ja-JP/faq?section=mvp#mvp-program-information-2" target="_blank">公式サイト</a>もあるのですが、ところどころ英語のままだったり、欲しい情報が欠けたりしているので、個人的に勝手に作りました
 
 ## 目次
 
@@ -35,7 +35,7 @@ Microsoft MVP とは
 
 * Microsoft Visual Studio 最上位のサブスクリプション(Microsoft Azure を月数万円分利用可能なサブスクリプションなども含む)と O365 E3 サブスクリプション付与。
     - また、**これに加え、** Azure カテゴリでの受賞だとさらに Microsoft Azure の利用額の増額や、Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
-* 年に一度 <a href="https://mvp.microsoft.com/ja-jp/Summit" target="_blank">MVP Global Summit</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに現地もしくはオンラインで参加ができる。(2023年4月現在)
+* 年に一度 <a href="https://summit.microsoft.com/en-us" target="_blank">MVP Global Summit</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに現地もしくはオンラインで参加ができる。(2023年4月現在)
 * ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
@@ -88,7 +88,7 @@ Microsoft MVP とは
 * 日本マイクロソフトの担当チームに加え、アメリカのマイクロソフト本社、また世界中のマイクロソフトの担当チームによって行われる
 * 1 年間の活動リストを見て、インパクトなどを総合的に加味し、授与の是非が決定される
 * わりと厳しい。（なので現在 MVP の人たちホント凄いと思うし尊敬しています)
-* もともとは自薦/他薦でのノミネーション(審査申込み)だったのですが、2019年1月現在 <a href="https://mvp.microsoft.com/ja-jp/Nomination/nominate-an-mvp" target="_blank">審査申し込みページ</a>を見たら、マイクロソフト社員もしくは MVP の人からの推薦が無いと審査プロセスに進めないようです。なので「我こそは」と思う方は、
+* もともとは自薦/他薦でのノミネーション(審査申込み)だったのですが、2019年1月現在 <a href="https://mvp.microsoft.com/ja-JP/faq?section=mvp#mvp-program-information-3" target="_blank">審査申し込みページ</a>を見たら、マイクロソフト社員もしくは MVP の人からの推薦が無いと審査プロセスに進めないようです。なので「我こそは」と思う方は、
     - MVP プログラムの本社チーム MVP Global Administrator 宛てに英語でメールを送る： `mvpga（あっと）microsoft.com`
     - 勉強会に参加して、そこにいる MVP の人や Microsoft 社員の人に「MVP興味あるのですが」と話してみる
 
@@ -98,16 +98,16 @@ Microsoft MVP とは
 
 「僕 MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
 
-カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2019年1月時点)
+カテゴリーについては <a href="https://microsoft.sharepoint.com/teams/MVPAwardProgram118/SitePages/MVP-Award-Technology-Structure.aspx" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2019年1月時点)
 
-とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイト</a>をご覧ください。
+とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://microsoft.sharepoint.com/teams/MVPAwardProgram118/SitePages/MVP-Award-Technology-Structure.aspx" target="_blank">公式サイト</a>をご覧ください。
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
 1|Microsoft Azure | Azure Core Compute (VMSS, Confidential Computing, Platform Deployment), Azure App Service, Azure Service Fabric, Azure Functions, Azure Kubernetes/Container Instances/Docker, Azure Logic Apps, Azure API Management などなど
 2|Windows Development | Windows Development, Windows Design
 3|M365 Development | W/X/P Development, Microsoft Graph, SharePoint Development, Microsoft Teams Development, Outlook Development
-4|Developer Technologies | ASP.NET/IIS, .NET, C++, GitHub & Azure DevOps, Developer Security, Visual Studio Extensibility, Front End Web Dev, Node.js, Python, Java, Unity, Xamarin, JavaScript/Typescript など
+4|Developer Technologies | DevOps, Developer Security, .NET, Java, Developer Tools, Python, C++, Web Development
 5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, Azure Search, Data Warehousing (Azure SQL Data Warehouse, Fast Track & APS), Azure Stream Analytics, Cortana Intelligence Suite, Information Management (ADF, SSIS, &Data Sync), PowerBI など
 6|AI | Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search, Azure Machine Learning
 7|Internet of Things | Azure Edge Devices, Azure IoT Services & Development
