@@ -98,9 +98,9 @@ Microsoft MVP とは
 
 「僕 MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
 
-カテゴリーについては <a href="https://microsoft.sharepoint.com/teams/MVPAwardProgram118/SitePages/MVP-Award-Technology-Structure.aspx" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2019年1月時点)
+カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2019年1月時点)
 
-とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://microsoft.sharepoint.com/teams/MVPAwardProgram118/SitePages/MVP-Award-Technology-Structure.aspx" target="_blank">公式サイト</a>をご覧ください。
+とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイト</a>をご覧ください。
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
