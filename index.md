@@ -98,26 +98,25 @@ Microsoft MVP とは
 
 「僕 MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
 
-カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2019年1月時点)
+カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2024年6月時点)
 
-とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://mvp.microsoft.com/ja-jp/Pages/mvp-award-update" target="_blank">公式サイト</a>をご覧ください。
+とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイト</a>をご覧ください。
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
-1|Microsoft Azure | Azure Core Compute (VMSS, Confidential Computing, Platform Deployment), Azure App Service, Azure Service Fabric, Azure Functions, Azure Kubernetes/Container Instances/Docker, Azure Logic Apps, Azure API Management などなど
-2|Windows Development | Windows Development, Windows Design
-3|M365 Development | W/X/P Development, Microsoft Graph, SharePoint Development, Microsoft Teams Development, Outlook Development
-4|Developer Technologies | DevOps, Developer Security, .NET, Java, Developer Tools, Python, C++, Web Development
-5|Data Platform | Azure Data Lake, Azure Cosmos DB, Azure HDInsight and Hadoop & Spark on Azure, Azure Search, Data Warehousing (Azure SQL Data Warehouse, Fast Track & APS), Azure Stream Analytics, Cortana Intelligence Suite, Information Management (ADF, SSIS, &Data Sync), PowerBI など
-6|AI | Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search, Azure Machine Learning
-7|Internet of Things | Azure Edge Devices, Azure IoT Services & Development
-8|Cloud & Datacenter Management | Datacenter Management, PowerShell, Hyper-V, Storage, Networking, High Availability, Group Policy, Windows Server for Small & Medium Business, Linux on Hyper-V, Chef/Puppet in Datacenter など
-9|Enterprise Mobility | Endpoint Manager, Information Protection, Remote Desktop Services
-10|Windows & Devices for IT | Windows for IT, Surface for IT, Windows 365
-11|M365 Apps & Services | Office 365, Exchange, SharePoint, Skype for Business, Yammer, Microsoft Teams, Access, Excel, OneNote, Outlook, PowerPoint, Visio, Word, OneDrive, Project, Microsoft Stream, Microsoft Viva
-12|Business Applications | Dynamics 365, Power Apps, Power Automate, Power Virtual Agents, Power Pages
-13|Security | Cloud Security, Identity & Access, SIEM & XDR
-14|Mixed Reality | D365 Mixed Reality, MR Design, MR Development
+1|AI Platform | Azure AI Services, Azure AI Studio, Azure Machine Learning Studio, Responsible AI with Azure
+2|Business Applications | AI ERP, Business Central, Copilot Studio, Customer Experience, Customer Service, Power Apps, Power Automate, Power Pages
+3|Cloud and Datacenter Management | Datacenter Management (Group Policy, System Center), Enterprise and Platform Security, High Availability, Hyper-V, Linux on Hyper-V, On-premises and Hybrid AKS, Container Management, On-Premises Networking, On-Premises Storage, Windows Server
+4|Data Platform | Analysis Services, Azure Arc (Arc SQL Server, Arc SQL MI), Azure Cosmos DB, Azure Data Engineering & Data Science, Azure Data Lake, Azure Database for MySQL, Azure Database for PostgreSQL, Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines), Azure Synapse Analytics, Data Integration, Database Development & DevOps, Microsoft Fabric, Microsoft Purview, Paginated Operational Reports (RDL), Power BI, Real-Time Analytics, SQL Server (on Windows, Linux, Containers), SQL Server ML Services, Tools & Connectivity
+5|Developer Technologies | .NET, C++, Developer Security, Developer Tools, DevOps, Java, Python, Web Development
+6|Internet of Things | Azure Edge Devices, Azure IoT Services & Development
+7|M365 | Access, Excel, Exchange, Loop, M365 Copilot, M365 Development, Mesh, Microsoft 365, Microsoft advanced content management and experiences, Microsoft Graph, Microsoft Stream, Microsoft Teams, Microsoft Viva, OneDrive, OneNote, Outlook, Planner, PowerPoint, SharePoint, Visio, Word
+8|Microsoft Azure | Azure Compute Infrastructure, Azure HPC & AI Infrastructure, Azure Hybrid & Migration, Azure Infrastructure as Code, Azure Integration PaaS, Azure Management, Azure Network Connectivity, Azure Networking Infrastructure & Security, Azure Patterns & Practices, Azure Specialized Workloads, Azure Storage - Block & File Storage, Azure Storage - Object Storage & Data Management, Cloud Native, PowerShell
+9|Mixed Reality | D365 Mixed Reality, MR Design, MR Development
+10|Security | Cloud Security, Identity & Access, Microsoft Intune, Microsoft Purview Information Protection, Security AI, SIEM & XDR
+11|Windows Development | Windows Design, Windows Development
+12|Windows and Devices | Azure Virtual Desktop, Surface, Windows, Windows 365
+
  
 <a id="mvps-in-japan"></a>
 
