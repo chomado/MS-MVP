@@ -39,7 +39,7 @@ Microsoft MVP とは
 * ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
-* クールな [Credly デジタルバッジ](https://www.credly.com/earner/earned/badge/bd4863e6-d58a-4b84-9b28-a9688a5fbd8f) が貰える
+* クールな <a href="https://www.credly.com/badges/bd4863e6-d58a-4b84-9b28-a9688a5fbd8f/public_url" target="_blank">Credly デジタルバッジ</a> が貰える
 * MVP 受賞者には Microsoft の窓口となる Microsoft 社員「Community Program Manager (CPM) 」が割り当てられ、個別の活動を元にさらなる活動機会のオファーや限定イベントへの招待、他の MVP や社員とのネットワーキングの機会の案内、また製品チームをはじめとした米国の Microsoft 本社とのコミュニケーションのサポートが受けられる
 
 ![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
@@ -107,15 +107,14 @@ Microsoft MVP とは
 1|AI Platform | Azure AI Services, Azure AI Studio, Azure Machine Learning Studio, Responsible AI with Azure
 2|Business Applications | AI ERP, Business Central, Copilot Studio, Customer Experience, Customer Service, Power Apps, Power Automate, Power Pages
 3|Cloud and Datacenter Management | Datacenter Management (Group Policy, System Center), Enterprise and Platform Security, High Availability, Hyper-V, Linux on Hyper-V, On-premises and Hybrid AKS, Container Management, On-Premises Networking, On-Premises Storage, Windows Server
-4|Data Platform | Analysis Services, Azure Arc (Arc SQL Server, Arc SQL MI), Azure Cosmos DB, Azure Data Engineering & Data Science, Azure Data Lake, Azure Database for MySQL, Azure Database for PostgreSQL, Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines), Azure Synapse Analytics, Data Integration, Database Development & DevOps, Microsoft Fabric, Microsoft Purview, Paginated Operational Reports (RDL), Power BI, Real-Time Analytics, SQL Server (on Windows, Linux, Containers), SQL Server ML Services, Tools & Connectivity
+4|Data Platform | Analysis Services, Azure Arc (Arc SQL Server, Arc SQL MI), Azure Cosmos DB, Azure Data Lake, Azure Database for MySQL, Azure Database for PostgreSQL, Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines), Azure Synapse Analytics, Data Engineering & Data Science in Fabric, Data Integration, Database Development & DevOps, Microsoft Fabric, Microsoft Purview - Data Governance, Paginated Operational Reports (RDL), Power BI, Real-Time Intelligence, SQL Server (on Windows, Linux, Containers), SQL Server ML Services, Tools & Connectivity
 5|Developer Technologies | .NET, C++, Developer Security, Developer Tools, DevOps, Java, Python, Web Development
 6|Internet of Things | Azure Edge Devices, Azure IoT Services & Development
-7|M365 | Access, Excel, Exchange, Loop, M365 Copilot, M365 Development, Mesh, Microsoft 365, Microsoft advanced content management and experiences, Microsoft Graph, Microsoft Stream, Microsoft Teams, Microsoft Viva, OneDrive, OneNote, Outlook, Planner, PowerPoint, SharePoint, Visio, Word
-8|Microsoft Azure | Azure Compute Infrastructure, Azure HPC & AI Infrastructure, Azure Hybrid & Migration, Azure Infrastructure as Code, Azure Integration PaaS, Azure Management, Azure Network Connectivity, Azure Networking Infrastructure & Security, Azure Patterns & Practices, Azure Specialized Workloads, Azure Storage - Block & File Storage, Azure Storage - Object Storage & Data Management, Cloud Native, PowerShell
-9|Mixed Reality | D365 Mixed Reality, MR Design, MR Development
-10|Security | Cloud Security, Identity & Access, Microsoft Intune, Microsoft Purview Information Protection, Security AI, SIEM & XDR
-11|Windows Development | Windows Design, Windows Development
-12|Windows and Devices | Azure Virtual Desktop, Surface, Windows, Windows 365
+7|M365 | Access, Excel, Exchange, Loop, M365 Copilot, M365 Copilot Extensibility, M365 Development, Mesh, Microsoft 365, Microsoft Graph, Microsoft Stream, Microsoft Teams, Microsoft Viva, OneDrive, OneNote, Outlook, Planner, PowerPoint, SharePoint, Visio, Word
+8|Microsoft Azure | Azure Application PaaS, Azure Compute Infrastructure, Azure Cost, Resource & Configuration Management, Azure HPC & AI Infrastructure, Azure Hybrid & Migration, Azure Infrastructure as Code, Azure Innovation Hub, Azure Integration PaaS, Azure Kubernetes and Open Source, Azure Networking, Azure Storage, Azure Well-Architected, Resiliency & Observability, PowerShell
+9|Security | Cloud Security (Microsoft Defender for Cloud, Azure network security products, GitHub Advanced Security), Identity & Access, Microsoft Intune, Microsoft Purview, Microsoft Security Copilot, SIEM & XDR (Microsoft Sentinel & Microsoft Defender XDR suite)
+10|Windows Development | Windows Design, Windows Development
+11|Windows and Devices | Azure Virtual Desktop, Surface, Windows, Windows 365
 
  
 <a id="mvps-in-japan"></a>
