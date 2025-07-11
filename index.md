@@ -96,7 +96,7 @@ Microsoft MVP とは
 
 ## アワードカテゴリー (受賞カテゴリ) って？
 
-「(ぼく|私) MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
+「（ぼく｜私）MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
 
 カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2024年6月時点)
 
