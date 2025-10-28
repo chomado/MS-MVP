@@ -104,7 +104,7 @@ Microsoft MVP とは
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
-1|AAzure AI Foundry | Azure AI Foundry
+1|Azure AI Foundry | Azure AI Foundry
 2|Business Applications | AI ERP、Business Central、Copilot Studio、Customer Experience、Customer Service、Power Apps、Power Automate、Power Pages
 3|Cloud and Datacenter Management | Datacenter Management (Group Policy, System Center)、Enterprise and Platform Security、High Availability、Hyper-V、Linux on Hyper-V、On-premises and Hybrid AKS, Container Management、On-Premises Networking、On-Premises Storage、Windows Server
 4|Data Platform | Analysis Services、Azure Arc (Arc SQL Server, Arc SQL MI)、Azure Cosmos DB、Azure Data Lake、Azure Database for MySQL、Azure Database for PostgreSQL、Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines)、Azure Synapse Analytics、Data Engineering & Data Science in Fabric、Data Integration、Database Development & DevOps、Microsoft Fabric、Microsoft Purview - Data Governance、Paginated Operational Reports (RDL)、Power BI、Real-Time Intelligence、SQL Server (on Windows, Linux, Containers)、SQL Server ML Services、Tools & Connectivity
