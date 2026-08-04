@@ -2,7 +2,7 @@
 
 **Microsoft MVP** (Most Valuable Professional) 制度とは、Microsoft 社が、社外の人を「MVP」として表彰する制度です。
 
-「Thank you Award」とも呼ばれ、マイクロソフト製品などに対する深い専門知識を待ち、かつ、それを広く(登壇や記事執筆などで)広めてくれている人たちを表彰する制度です。
+「Thank you Award」とも呼ばれ、マイクロソフト製品などに対する深い専門知識を持ち、かつ、それを広く(登壇や記事執筆などで)広めてくれている人たちを表彰する制度です。
 
 公式サイト： <a href="https://mvp.microsoft.com/ja-jp" target="_blank">mvp.microsoft.com</a>
 
@@ -36,10 +36,10 @@ Microsoft MVP とは
 * Microsoft Visual Studio 最上位のサブスクリプション(Microsoft Azure を月数万円分利用可能なサブスクリプションなども含む)と O365 E3 サブスクリプション付与。
     - また、**これに加え、** Azure カテゴリでの受賞だとさらに Microsoft Azure の利用額の増額や、Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
 * 年に一度 <a href="https://summit.microsoft.com/en-us" target="_blank">MVP Global Summit</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに現地もしくはオンラインで参加ができる。(2023年4月現在)
-* ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
+* NDA な情報が流れる MVP メーリングリストに参加
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
-* クールな <a href="https://www.credly.com/badges/bd4863e6-d58a-4b84-9b28-a9688a5fbd8f/public_url" target="_blank">Credly デジタルバッジ</a> が貰える
+* クールな <a href="https://www.credly.com/badges/533bc829-8b49-4026-8141-07f02dfc0ced/public_url" target="_blank">Credly デジタルバッジ</a> が貰える
 * Microsoft の窓口となる Microsoft 社員「Engagement Leads (ELs) 」から、社員とのネットワーキングの機会の案内、また製品チームをはじめとした米国の Microsoft 本社とのコミュニケーションのサポートが受けられる
 
 ![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
@@ -87,7 +87,7 @@ Microsoft MVP とは
 * 申請時点から過去 1 年間(2019年4月に申請した場合、2018年4月から2019年3月)の活動内容が審査対象になる
 * 日本マイクロソフトの担当チームに加え、アメリカのマイクロソフト本社、また世界中のマイクロソフトの担当チームによって行われる
 * 1 年間の活動リストを見て、インパクトなどを総合的に加味し、授与の是非が決定される
-* わりと厳しい。（なので現在 MVP の人たちホント凄いと思うし尊敬しています)
+* わりと厳しい。（なので現在 MVP の人たちホント凄いと思うし尊敬しています）
 * もともとは自薦/他薦でのノミネーション(審査申込み)だったのですが、2019年1月現在 <a href="https://mvp.microsoft.com/ja-JP/faq?section=mvp#mvp-program-information-3" target="_blank">審査申し込みページ</a>を見たら、マイクロソフト社員もしくは MVP の人からの推薦が無いと審査プロセスに進めないようです。なので「我こそは」と思う方は、
     - MVP プログラムの本社チーム MVP Global Administrator 宛てに英語でメールを送る： `mvpga（あっと）microsoft.com`
     - 勉強会に参加して、そこにいる MVP の人や Microsoft 社員の人に「MVP興味あるのですが」と話してみる
