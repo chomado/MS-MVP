@@ -34,7 +34,7 @@ Microsoft MVP とは
 ## Microsoft MVP に認定されるメリットって何？
 
 * Microsoft Visual Studio 最上位のサブスクリプション(Microsoft Azure を月数万円分利用可能なサブスクリプションなども含む)と O365 E3 サブスクリプション付与。
-    - また、**これに加え、** Azure カテゴリでの受賞だとさらに Microsoft Azure の利用額の増額や、Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
+    - また、**これに加え、** Office カテゴリだと O365 E5 にアップグレードなど、カテゴリによって若干ベネフィットに違いがあります
 * 年に一度 <a href="https://summit.microsoft.com/en-us" target="_blank">MVP Global Summit</a> という、マイクロソフト社員にすら秘密である NDA 情報がシェアされまくる 3 日間の技術イベントがアメリカのマイクロソフト本社にて開催され、これに現地もしくはオンラインで参加ができる。(2023年4月現在)
 * NDA な情報が流れる MVP メーリングリストに参加
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
